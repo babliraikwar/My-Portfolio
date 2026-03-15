@@ -66,27 +66,27 @@ return (
     showMenu && (
       <div className="md:hidden absolute top-full left-0 w-full bg-dark-300 p-6 flex flex-col space-y-6 text-center">
          
-      <a onClick={()=>setshowMenu(!showMenu)} href="#home" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a onClick={()=>setshowMenu(!showMenu)} href="/My-Portfolio/#home" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Home</span>
       </a>
 
-      <a onClick={()=>setshowMenu(!showMenu)} href="#about" className=" relative text-white/80 transition duration-300 text-[#0ea5e9] group">
+      <a onClick={()=>setshowMenu(!showMenu)} href="/My-Portfolio/#about" className=" relative text-white/80 transition duration-300 text-[#0ea5e9] group">
         <span>About Me</span>
       </a>
 
-      <a onClick={()=>setshowMenu(!showMenu)} href="#skills" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a onClick={()=>setshowMenu(!showMenu)} href="/My-Portfolio/#skills" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Skills</span>
       </a>
 
-      <a onClick={()=>setshowMenu(!showMenu)} href="#projects" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a onClick={()=>setshowMenu(!showMenu)} href="/My-Portfolio/#projects" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Projects</span>
       </a>
 
-      <a onClick={()=>setshowMenu(!showMenu)} href="#experience" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a onClick={()=>setshowMenu(!showMenu)} href="/My-Portfolio/#experience" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Experience</span>
       </a>
 
-      <a onClick={()=>setshowMenu(!showMenu)} href="#contact" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a onClick={()=>setshowMenu(!showMenu)} href="/My-Portfolio/#contact" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Contact</span>
 
       </a>
