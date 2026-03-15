@@ -10,7 +10,7 @@ const Work =()=>{
     transition={{duration:0.6, ease: 'easeOut'}}
     viewport={{once:false, amount:0.2}}
     id="experience"
-    className="py-20 bg-dark-200"
+    className="py-20 bg-dark-200 scroll-mt-24"
     >
       <div className="py-20 bg-dark-100">
         <div className="container mx-auto px-6">

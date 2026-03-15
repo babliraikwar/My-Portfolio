@@ -12,7 +12,7 @@ const About =()=>{
      transition={{duration:0.6, ease: 'easeOut'}}
      viewport={{once:true}}
      id="about"
-     className="py-20 bg-dark-200"
+     className="pt-28 pb-20 bg-dark-200 scroll-mt-24"
      >
       <div className="container  mx-0 px-6 ">
         {/* heading  */}
