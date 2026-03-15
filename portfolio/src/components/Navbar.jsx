@@ -16,32 +16,32 @@ return (
      </div> 
 
      <div className="hidden md:flex space-x-10">
-      <a href="#home" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a href="/My-Portfolio/#home" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Home</span>
         <span className="absolute left-0 -bottom-1  w-0 h-0.5 bg-[#0ea5e9] transition-all duration-300 group-hover:w-full"></span>
       </a>
 
-      <a href="#about" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a href="/My-Portfolio/#about" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>About Me</span>
         <span className="absolute left-0 -bottom-1  w-0 h-0.5 bg-[#0ea5e9] transition-all duration-300 group-hover:w-full"></span>
       </a>
 
-      <a href="#skills" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a href="/My-Portfolio/#skills" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Skills</span>
         <span className="absolute left-0 -bottom-1  w-0 h-0.5 bg-[#0ea5e9] transition-all duration-300 group-hover:w-full"></span>
       </a>
 
-      <a href="#projects" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a href="/My-Portfolio/#projects" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Projects</span>
         <span className="absolute left-0 -bottom-1  w-0 h-0.5 bg-[#0ea5e9] transition-all duration-300 group-hover:w-full"></span>
       </a>
 
-      <a href="#experience" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a href="/My-Portfolio/#experience" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Experience</span>
         <span className="absolute left-0 -bottom-1  w-0 h-0.5 bg-[#0ea5e9] transition-all duration-300 group-hover:w-full"></span>
       </a>
 
-      <a href="#contact" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
+      <a href="/My-Portfolio/#contact" className=" relative text-white/80 transition duration-300 hover:text-[#0ea5e9] group">
         <span>Contact</span>
         <span className="absolute left-0 -bottom-1  w-0 h-0.5 bg-[#0ea5e9] transition-all duration-300 group-hover:w-full"></span>
       </a>

@@ -20,10 +20,10 @@ const Hero = ()=>{
           <p className="text-lg text-gray-300 mb-8">I create stunning web experience with modern technologies and innovative design</p>
 
           <div className="  flex space-x-4">
-            <a href="#contact" className="px-6 py-3 bg-[#0ea5e9] rounded-xl font-medium transition duration-300">
+            <a href="/My-Portfolio/#contact" className="px-6 py-3 bg-[#0ea5e9] rounded-xl font-medium transition duration-300">
               Hire Me
             </a>
-            <a href="/babli-frontened-developer.pdf" 
+            <a href="/My-Portfolio/babli-frontened-developer.pdf" 
              download
             className="px-6 py-3  font-medium border-2 border-sky-700 hover:bg-[#0a3244] transition duration-300 rounded-lg"> download Resume</a>
           </div>
